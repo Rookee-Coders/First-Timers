@@ -63,16 +63,20 @@ https://www.linkedin.com/in/prathmesh-ingole-28028a215
  
  <br   />
  
- - 🌱 I’m currently learning **Data Structures and Algorithm** , **React** and **Redux**
- - 🎯 I'm aspring to be a good Web Developer
+ - 🌱  I’m currently learning **Data Structures and Algorithm** , **React** and **Redux**
+ - 🎯  I'm aspring to be a good Web Developer
+ - ✉️ Connect with me at **pratham111ingole@gmail.com** <img align="center" src="https://user-images.githubusercontent.com/91962775/162584727-cb2bd9a9-d763-40fd-80c6-ff801a40db8d.png" height="15"/> 
 <br />
 
-**Connect with me at**
+**Find me Around the Web 🌎**
 <br />
 <p align="left">
 <a href="https://twitter.com/Pratham_ii" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91962775/162583985-5dec6e07-73ad-4589-b928-d87a37572d3d.png" alt="pratham_ii" height="35" /></a>
 <a href="https://www.linkedin.com/in/prathmesh-ingole-28028a215" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91962775/162584456-c37e4f8d-e3a4-4bbc-987f-3200646170e5.png" height="35"/></a>
 <a href="https://www.instagram.com/prathaml._.l/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91962775/162584660-71fbaabc-1ff7-4f11-9b8f-659b84887c55.png" height="35"/></a>
-<a href="pratham111ingole@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91962775/162584727-cb2bd9a9-d763-40fd-80c6-ff801a40db8d.png" height="35"/></a>
+<a ><img align="center" src="https://user-images.githubusercontent.com/91962775/162584727-cb2bd9a9-d763-40fd-80c6-ff801a40db8d.png" height="35" alt="pratham111ingole@gmail.com" /></a>
  
  </p>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IORD1&show_icons=true&locale=en&layout=compact" alt="IORD1" /></p>
+
