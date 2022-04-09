@@ -79,4 +79,5 @@ https://www.linkedin.com/in/prathmesh-ingole-28028a215
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IORD1&layout=compact)](https://github.com/IORD1/github-readme-stats)
-
+ <br />
+[![Pratham's Github stats](https://github-readme-stats.vercel.app/api?username=IORD1)](https://github.com/IORD1/github-readme-stats)
